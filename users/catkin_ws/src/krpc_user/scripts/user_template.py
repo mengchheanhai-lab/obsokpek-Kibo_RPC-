@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 
 #this is a test for github
+#domdom
 """
 Kibo-RPC (7th) preliminary-round solution, built on the official template.
 
